@@ -1,5 +1,5 @@
 # Measuring Effectiveness of Team Recommendation for Collaborative SoftwareDevelopment
-Here is the source code that we used in "Measuring Effectiveness of Team Recommendation for Collaborative SoftwareDevelopmen".
+Here is the source code that we used in "Measuring Effectiveness of Team Recommendation for Collaborative SoftwareDevelopment".
 
 ## Running Experiment
 Since this research was broken down into many sections, the instruction for running/compile/execute on each section will be written in __README.md__ on each folder of each part.
